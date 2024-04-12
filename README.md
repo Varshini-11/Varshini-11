@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varshini-11
-- 👀 I’m interested in learning new things,playing games and Reading.
+- 👀 I’m interested in learning new technogies,coding and problem-soving.
 - 🌱 I’m currently learning PYTHON.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chvarshini11@gmail.com
